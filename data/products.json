@@ -1,0 +1,259 @@
+[
+  {
+    "name": "Pain au Chocolat",
+    "category": "Viennoiseries",
+    "ingredients": [
+      "Farine de blé", 
+      "Beurre de baratte", 
+      "Sucre", 
+      "Levure", 
+      "Sel", 
+      "Chocolat noir (cacao, sucre, beurre de cacao)"
+    ],
+    "nutritionalInfo": {
+      "calories": 270,
+      "protein": "5g",
+      "carbs": "30g",
+      "fat": "14g"
+    }
+  },
+  {
+    "name": "Croissant au Beurre",
+    "category": "Viennoiseries",
+    "ingredients": [
+      "Farine de blé", 
+      "Beurre AOP", 
+      "Sucre", 
+      "Levure", 
+      "Sel", 
+      "Lait"
+    ],
+    "nutritionalInfo": {
+      "calories": 235,
+      "protein": "4g",
+      "carbs": "26g",
+      "fat": "12g"
+    }
+  },
+  {
+    "name": "Baguette Tradition",
+    "category": "Pains",
+    "ingredients": [
+      "Farine de blé T65", 
+      "Eau", 
+      "Levain", 
+      "Sel de Guérande", 
+      "Levure"
+    ],
+    "nutritionalInfo": {
+      "calories": 250,
+      "protein": "9g",
+      "carbs": "48g",
+      "fat": "2g"
+    }
+  },
+  {
+    "name": "Pain Complet",
+    "category": "Pains",
+    "ingredients": [
+      "Farine complète de blé", 
+      "Eau", 
+      "Levain", 
+      "Sel", 
+      "Levure"
+    ],
+    "nutritionalInfo": {
+      "calories": 220,
+      "protein": "10g",
+      "carbs": "42g",
+      "fat": "2g"
+    }
+  },
+  {
+    "name": "Tarte aux Pommes",
+    "category": "Pâtisseries",
+    "ingredients": [
+      "Farine de blé", 
+      "Beurre", 
+      "Sucre", 
+      "Œufs", 
+      "Pommes", 
+      "Cannelle", 
+      "Vanille"
+    ],
+    "nutritionalInfo": {
+      "calories": 320,
+      "protein": "3g",
+      "carbs": "42g",
+      "fat": "16g"
+    }
+  },
+  {
+    "name": "Éclair au Chocolat",
+    "category": "Pâtisseries",
+    "ingredients": [
+      "Farine de blé", 
+      "Beurre", 
+      "Œufs", 
+      "Lait", 
+      "Chocolat noir", 
+      "Sucre", 
+      "Crème"
+    ],
+    "nutritionalInfo": {
+      "calories": 290,
+      "protein": "5g",
+      "carbs": "30g",
+      "fat": "18g"
+    }
+  },
+  {
+    "name": "Macaron",
+    "category": "Pâtisseries",
+    "ingredients": [
+      "Amandes en poudre", 
+      "Sucre glace", 
+      "Sucre", 
+      "Blancs d'œufs", 
+      "Colorants naturels"
+    ],
+    "nutritionalInfo": {
+      "calories": 100,
+      "protein": "2g",
+      "carbs": "15g",
+      "fat": "5g"
+    }
+  },
+  {
+    "name": "Pain aux Céréales",
+    "category": "Pains",
+    "ingredients": [
+      "Farine de blé", 
+      "Farine de seigle", 
+      "Graines (lin, tournesol, sésame)", 
+      "Eau", 
+      "Sel", 
+      "Levure"
+    ],
+    "nutritionalInfo": {
+      "calories": 240,
+      "protein": "11g",
+      "carbs": "40g",
+      "fat": "4g"
+    }
+  },
+  {
+    "name": "Mille-feuille",
+    "category": "Pâtisseries",
+    "ingredients": [
+      "Pâte feuilletée (farine, beurre)", 
+      "Crème pâtissière (lait, œufs, sucre)", 
+      "Sucre glace", 
+      "Fondant"
+    ],
+    "nutritionalInfo": {
+      "calories": 340,
+      "protein": "4g",
+      "carbs": "38g",
+      "fat": "20g"
+    }
+  },
+  {
+    "name": "Poulet Fermier",
+    "category": "Boucherie",
+    "ingredients": [
+      "Poulet entier Label Rouge", 
+      "Élevé en plein air"
+    ],
+    "nutritionalInfo": {
+      "calories": 165,
+      "protein": "25g",
+      "carbs": "0g",
+      "fat": "8g"
+    }
+  },
+  {
+    "name": "Entrecôte",
+    "category": "Boucherie",
+    "ingredients": [
+      "Bœuf Charolais élevé en pâturage"
+    ],
+    "nutritionalInfo": {
+      "calories": 280,
+      "protein": "26g",
+      "carbs": "0g",
+      "fat": "20g"
+    }
+  },
+  {
+    "name": "Bar de Ligne",
+    "category": "Poissonnerie",
+    "ingredients": [
+      "Bar sauvage pêché à la ligne"
+    ],
+    "nutritionalInfo": {
+      "calories": 105,
+      "protein": "20g",
+      "carbs": "0g",
+      "fat": "2g"
+    }
+  },
+  {
+    "name": "Saumon d'Écosse",
+    "category": "Poissonnerie",
+    "ingredients": [
+      "Saumon d'Écosse Label Rouge élevé en mer ouverte"
+    ],
+    "nutritionalInfo": {
+      "calories": 180,
+      "protein": "22g",
+      "carbs": "0g",
+      "fat": "10g"
+    }
+  },
+  {
+    "name": "Côtes d'Agneau",
+    "category": "Boucherie",
+    "ingredients": [
+      "Agneau de pré-salé",
+      "Élevé en plein air",
+      "Origine France"
+    ],
+    "nutritionalInfo": {
+      "calories": 310,
+      "protein": "24g",
+      "carbs": "0g",
+      "fat": "23g"
+    }
+  },
+  {
+    "name": "Saumon Frais",
+    "category": "Poissonnerie",
+    "ingredients": [
+      "Saumon Atlantique",
+      "Pêche durable",
+      "Sans arêtes"
+    ],
+    "nutritionalInfo": {
+      "calories": 208,
+      "protein": "20g",
+      "carbs": "0g",
+      "fat": "13g"
+    }
+  },
+  {
+    "name": "Huîtres Spéciales",
+    "category": "Poissonnerie",
+    "ingredients": [
+      "Huîtres creuses N°2",
+      "Élevées en Bretagne",
+      "Affinées en claire"
+    ],
+    "nutritionalInfo": {
+      "calories": 40,
+      "protein": "4g",
+      "carbs": "2g",
+      "fat": "1g"
+    }
+  }
+] 
