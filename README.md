@@ -88,14 +88,6 @@ Recherchez un produit par son nom et obtenez ses informations nutritionnelles et
 }
 ```
 
-## Intégration avec Nori Marketplace
-
-Pour utiliser cette API avec l'application Nori Marketplace:
-
-1. Assurez-vous que le serveur API est en cours d'exécution
-2. L'application Nori Marketplace doit avoir la variable d'environnement `VITE_NUTRITIONAL_API_URL` configurée pour pointer vers cette API (par défaut: `http://localhost:3001`)
-3. Utilisez l'API pour récupérer les données nutritionnelles des produits proposés sur Nori Marketplace
-
 ## Données
 
 L'API est livrée avec un ensemble prédéfini de produits dans le fichier `data/products.json`. Vous pouvez modifier ce fichier pour ajouter ou modifier les données des produits disponibles sur Nori Marketplace. 
